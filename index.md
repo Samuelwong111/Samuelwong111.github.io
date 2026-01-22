@@ -4,7 +4,7 @@ title: 我的首页
 ---
 
 # 欢迎来到我的网站
-这是应用了主题样式后的内容。
+我用了minimal主题来装饰一下我贫瘠的网站（
 
 <!DOCTYPE html>
 <html lang="zh-CN">
